@@ -24,9 +24,12 @@ Hanneng Hu
 
 Emirali Caferzade   caferzade@campus.tu-berlin.de
 
+---
 
-***
+<br>
+
 # Setting up the Meta Quest 2 and the Oculus Developer Hub (OHD):
+
 
 ## Preexisting requierments:
 
@@ -37,7 +40,7 @@ Installed Oculus Developer Hub (OHD):
 
 An Meta Quest 2 in Developer Mode: 
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
-  
+<br>  
   
 ## Preparing the Meta quest 2 and the ODH (one time only):
 1.	Connect the Meta Quest 2 to your PC and copy the folder "hls.js" to the internal storage of the Headset.  
@@ -47,7 +50,7 @@ An Meta Quest 2 in Developer Mode:
 ```adb 
 adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrowserlauncher/.MainActivity \-a android.intent.action.VIEW -d 'file:///storage/emulated/0/hls.js/index.html' 
 ```
-  
+<br>  
   
 ## Accessing the Website with the livestream on the Meta Quest 2:
 

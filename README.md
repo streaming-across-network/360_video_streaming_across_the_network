@@ -42,7 +42,7 @@ An Meta Quest 2 in Developer Mode:
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 <br>  
   
-## Preparing the Meta quest 2 and the ODH (one time only):
+## Preparing the Meta Quest 2 and the ODH (one time only):
 1.	Connect the Meta Quest 2 to your PC and copy the folder "hls.js" to the internal storage of the Headset.  
 (next to the download and oculus folder)
 
@@ -52,7 +52,7 @@ adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrows
 ```
 <br>  
   
-## Accessing the Website with the livestream on the Meta Quest 2:
+## Accessing the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Dissconnect and put on the Meta Quest 2.

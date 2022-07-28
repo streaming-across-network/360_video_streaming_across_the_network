@@ -10,7 +10,10 @@ For details about SRS installation, please check out: https://github.com/ossrs/s
 To use it, just run *start_srs.py* script.
 
 ## Credits
-Big thanks to the SRS community (https://github.com/ossrs/srs) for abling us the RTMP to HLS conversion using SRS.
+Big thanks to the SRS community (https://github.com/ossrs/srs) for abling us the RTMP to HLS conversion using SRS.  
+  
+Cheers to the creators of hls.js for their JavaScript library.
+>https://github.com/video-dev/hls.js/
 
 ## Authors
 Yining Cong 
@@ -23,7 +26,7 @@ Emirali Caferzade   caferzade@campus.tu-berlin.de
 
 
 ***
-# Setting up the Meta Quest 2 and the Oculus Developer Hub (OHD)
+# Setting up the Meta Quest 2 and the Oculus Developer Hub (OHD):
 
 ## Preexisting requierments:
 

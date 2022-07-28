@@ -23,7 +23,7 @@ Emirali Caferzade   caferzade@campus.tu-berlin.de
 
 
 ***
-# Setting up the Meta Quest 2 PC and the Oculus Developer Hub (OHD)
+# Setting up the Meta Quest 2 and the Oculus Developer Hub (OHD)
 
 ## Preexisting requierments:
 

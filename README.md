@@ -11,9 +11,9 @@ To use it, just run *start_srs.py* script.
 
 You can run it over the terminal.
 
-# Setting up 360 Camera (modell GoPro Max):
+# Setting up 360 Camera (model GoPro Max):
 
-you can find the instructions on the "presentation_360video.pdf" Appendix section down below.
+you can find the instructions on the "presentation_360video.pdf" Appendix-section down below.
 
 Any other RTMP compatible camera will work too.
 

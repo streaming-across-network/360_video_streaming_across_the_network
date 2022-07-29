@@ -8,9 +8,11 @@ For details about SRS installation, please check out: https://github.com/ossrs/s
 
 ## Usage
 To use it, just run *start_srs.py* script.
+You can run it over the terminal.
+
 
 ## Credits
-Big thanks to the SRS community (https://github.com/ossrs/srs) for abling us the RTMP to HLS conversion using SRS.  
+Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
   
 Cheers to the creators of hls.js for their JavaScript library.
 >https://github.com/video-dev/hls.js/

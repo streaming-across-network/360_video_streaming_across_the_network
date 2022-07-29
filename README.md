@@ -11,6 +11,11 @@ To use it, just run *start_srs.py* script.
 
 You can run it over the terminal.
 
+# Setting up 360 Camera (modell GoPro Max):
+
+you can find the instructions on the "presentation_360video.pdf" Appendix section down below.
+
+Any other RTMP compatible camera will work too.
 
 ## Credits
 Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  

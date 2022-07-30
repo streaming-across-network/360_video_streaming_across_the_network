@@ -7,7 +7,7 @@
 ```adb 
 git clone https://github.com/streaming-across-network/360_video_streaming_across_the_network.git
 ```
-Clone/download this repo and SRS (https://github.com/ossrs/srs), 
+Clone/download SRS for more info look here (https://github.com/ossrs/srs), 
 ```adb 
 git clone -b develop https://gitee.com/ossrs/srs.git
 ```

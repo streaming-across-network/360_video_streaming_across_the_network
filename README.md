@@ -22,7 +22,7 @@ make
 ## Usage
 Run *start_srs.py* script.
 
-You can run it over the terminal. Designed vor Linux/Ubuntu.
+Designed vor Linux/Ubuntu.
 
 ```adb 
 python3 start_srs.py

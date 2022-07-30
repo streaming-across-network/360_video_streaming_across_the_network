@@ -7,14 +7,11 @@
 ```adb 
 git clone https://github.com/streaming-across-network/360_video_streaming_across_the_network.git
 ```
-Clone/download SRS for more info look here (https://github.com/ossrs/srs), 
+2. Clone/download SRS (for more info look here: https://github.com/ossrs/srs/wiki/v4_EN_Home)
 ```adb 
 git clone -b develop https://gitee.com/ossrs/srs.git
 ```
-2. Use this line to clone and build the SRS(simlpe realtime server)
-3. Put the cloned srs in the same directory (360_video_streaming_across_the_network).
-
-For details about SRS installation, please check out: https://github.com/ossrs/srs/wiki/v4_EN_Home
+3. Put the SRS in the same directory as the project(360_video_streaming_across_the_network).
 
 ## Usage
 To use it, just run *start_srs.py* script.

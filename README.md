@@ -57,11 +57,7 @@ Any other RTMP compatible camera will work too.
 adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrowserlauncher/.MainActivity \-a android.intent.action.VIEW -d 'file:///storage/emulated/0/hls.js/index.html' 
 ```
 <br>  
-  
-### Accessing the website with the livestream on the Meta Quest 2:
 
-1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
-2.	Disconnect and put on the Meta Quest 2.
 
 ## Usage
 After *setting up the 360 camera* as described in [here](#setting-up-360-camera-model-gopro-max) and *setting up the Meta Quest 2 and the Oculus Developer Hub* as described in [here](#setting-up-the-meta-quest-2-and-the-oculus-developer-hub-ODH):
@@ -71,7 +67,12 @@ Run *start_srs.py* script. (on Linux)
 ```adb 
 python3 start_srs.py
 ```
+  
+# Accessing the website with the livestream on the Meta Quest 2:
 
+1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
+2.	Disconnect and put on the Meta Quest 2.
+3.	
 ### Credits
 Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
   

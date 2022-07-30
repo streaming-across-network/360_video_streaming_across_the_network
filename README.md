@@ -35,7 +35,7 @@ make
 
 ## Setting up 360 Camera (model GoPro Max):
 
-You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" (Appendix-section down below).
+You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" [appendix-section down below](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf)..
 
 Any other RTMP compatible camera will work too.
 
@@ -67,7 +67,7 @@ Run *start_srs.py* script. (on Linux)
 ```adb 
 python3 start_srs.py
 ```
-The script will output a RTMP-URL and HLS-URL. Instructions for usage you can find in the([appendix](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
+The script will output a RTMP-URL and HLS-URL. Instructions for usage you can find in the [appendix](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
 
 Note: The website will ask for the IP-address which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
 <br>

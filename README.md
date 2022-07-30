@@ -2,6 +2,11 @@
 "360 video streaming across the network" project for "Advanced Projects at the Quality and Usability Lab" lecture at TU Berlin
 
 ## Installation
+
+1. Clone this repository 
+2. ```adb 
+"git clone -b develop https://gitee.com/ossrs/srs.git"](https://github.com/streaming-across-network/360_video_streaming_across_the_network.git)"
+```
 Clone/download this repo and SRS (https://github.com/ossrs/srs), 
 ```adb 
 "git clone -b develop https://gitee.com/ossrs/srs.git"

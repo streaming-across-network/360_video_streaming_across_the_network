@@ -67,7 +67,6 @@ Run *start_srs.py* script. (on Linux)
 ```adb 
 python3 start_srs.py
 ```
-Refer to the appendix section in "presentation_360video.pdf" for the following steps.
 
 Access the website with the livestream on the Meta Quest 2:
 

@@ -13,6 +13,12 @@ git clone -b develop https://gitee.com/ossrs/srs.git
 ```
 3. Put the SRS in the same directory as the project(360_video_streaming_across_the_network).
 
+4. last type in
+```adb 
+pip install to-requirements.txt
+```
+to include all modules that we need.
+
 ## Usage
 To use it, just run *start_srs.py* script.
 

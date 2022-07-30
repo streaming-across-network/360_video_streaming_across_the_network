@@ -20,7 +20,7 @@ cd srs/trunk
 make
 ```
 ## Usage
-To use it, just run *start_srs.py* script.
+To use it, run *start_srs.py* script.
 
 You can run it over the terminal. Designed vor Linux/Ubuntu.
 

@@ -20,12 +20,12 @@ cd srs/trunk
 make
 ```
 ## Usage
-To use it, run *start_srs.py* script.
+Run *start_srs.py* script.
 
 You can run it over the terminal. Designed vor Linux/Ubuntu.
 
 ```adb 
-python3 *start_srs.py*
+python3 start_srs.py
 ```
 
 # Setting up 360 Camera (model GoPro Max):

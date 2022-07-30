@@ -2,7 +2,12 @@
 "360 video streaming across the network" project for "Advanced Projects at the Quality and Usability Lab" lecture at TU Berlin
 
 ## Installation
-Clone/download this repo and SRS (https://github.com/ossrs/srs), put them in the same directory.
+Clone/download this repo and SRS (https://github.com/ossrs/srs), 
+```adb 
+"git clone -b develop https://gitee.com/ossrs/srs.git"
+```
+1. Use this line to clone and build the SRS(simlpe realtime server)
+2. Put the cloned srs in the same directory (360_video_streaming_across_the_network).
 
 For details about SRS installation, please check out: https://github.com/ossrs/srs/wiki/v4_EN_Home
 

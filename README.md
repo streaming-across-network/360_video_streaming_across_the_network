@@ -69,9 +69,8 @@ python3 start_srs.py
 ```
 The script will output a RTMP-URL and HLS-URL instructions for usage you can find in the appendix
 
-Note: The website will ask for the IP-adress which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
-
-
+Note: The website will ask for the IP-address which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
+<br>
 
 Access the website with the livestream on the Meta Quest 2:
 

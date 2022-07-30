@@ -70,6 +70,8 @@ python3 start_srs.py
 The script will output a RTMP-URL and HLS-URL instructions for usage you can find in the appendix
 
 Note: The website will ask for the IP-adress which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
+
+
 Access the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.

@@ -68,11 +68,11 @@ Run *start_srs.py* script. (on Linux)
 python3 start_srs.py
 ```
   
-### Accessing the website with the livestream on the Meta Quest 2:
+Access the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Disconnect and put on the Meta Quest 2.
-3.	
+
 ### Credits
 Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
   

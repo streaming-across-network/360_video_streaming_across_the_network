@@ -30,11 +30,7 @@ you can find the instructions for connecting via the "Quick App" on the "present
 
 Any other RTMP compatible camera will work too.
 
-## Credits
-Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
-  
-Cheers to the creators of hls.js for their JavaScript library.
->https://github.com/video-dev/hls.js/
+
 
 ---
 
@@ -68,6 +64,12 @@ adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrows
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Dissconnect and put on the Meta Quest 2.
+
+## Credits
+Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
+  
+Cheers to the creators of hls.js for their JavaScript library.
+>https://github.com/video-dev/hls.js/
 
 
 ## Authors

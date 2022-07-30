@@ -1,7 +1,7 @@
 # 360_video_streaming_across_the_network
 "360 video streaming across the network" project for "Advanced Projects at the Quality and Usability Lab" lecture at TU Berlin
 
-## Technical requirements:
+### Technical requirements:
 Supported operating system: Linux/Ubuntu
 
 Python version 3.7 or greater
@@ -14,7 +14,7 @@ Installed Oculus Developer Hub (ODH):
 An Meta Quest 2 in Developer Mode: 
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 
-## Installation
+## Installation of network part
 
 1. Clone this repository 
 ```adb 
@@ -32,16 +32,8 @@ cd srs/trunk
 ./configure
 make
 ```
-## Usage
-After *setting up the 360 camera* as described in [here](#setting-up-360-camera-model-gopro-max) and *setting up the Meta Quest 2 and the Oculus Developer Hub* as described in [here](#setting-up-the-meta-quest-2-and-the-oculus-developer-hub-ODH):
 
-Run *start_srs.py* script. (on Linux)
-
-```adb 
-python3 start_srs.py
-```
-
-# Setting up 360 Camera (model GoPro Max):
+## Setting up 360 Camera (model GoPro Max):
 
 You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" (Appendix-section down below).
 
@@ -51,12 +43,12 @@ Any other RTMP compatible camera will work too.
 
 <br>
 
-# Setting up the Meta Quest 2 and the Oculus Developer Hub (ODH):
+## Setting up the Meta Quest 2 and the Oculus Developer Hub (ODH):
 
 
 <br>  
   
-## Preparing the Meta Quest 2 and the ODH (one time only):
+### Preparing the Meta Quest 2 and the ODH (one time only):
 1.	Connect the Meta Quest 2 to your PC and copy the folder "hls.js" to the internal storage of the Headset.  
 (next to the download and oculus folder)
 
@@ -66,19 +58,28 @@ adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrows
 ```
 <br>  
   
-## Accessing the website with the livestream on the Meta Quest 2:
+### Accessing the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Disconnect and put on the Meta Quest 2.
 
-## Credits
+## Usage
+After *setting up the 360 camera* as described in [here](#setting-up-360-camera-model-gopro-max) and *setting up the Meta Quest 2 and the Oculus Developer Hub* as described in [here](#setting-up-the-meta-quest-2-and-the-oculus-developer-hub-ODH):
+
+Run *start_srs.py* script. (on Linux)
+
+```adb 
+python3 start_srs.py
+```
+
+### Credits
 Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us the RTMP to HLS conversion using SRS.  
   
 Cheers to the creators of hls.js for their JavaScript library.
 >https://github.com/video-dev/hls.js/
 
 
-## Authors
+### Authors
 Yining Cong 
 
 Christian Gumprecht 

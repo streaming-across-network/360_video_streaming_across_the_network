@@ -36,15 +36,6 @@ Big thanks to the SRS community (https://github.com/ossrs/srs) for enabling us t
 Cheers to the creators of hls.js for their JavaScript library.
 >https://github.com/video-dev/hls.js/
 
-## Authors
-Yining Cong 
-
-Christian Gumprecht 
-
-Hanneng Hu          hanneng.hhu@gmail.com
-
-Emirali Caferzade   caferzade@campus.tu-berlin.de
-
 ---
 
 <br>
@@ -52,7 +43,7 @@ Emirali Caferzade   caferzade@campus.tu-berlin.de
 # Setting up the Meta Quest 2 and the Oculus Developer Hub (ODH):
 
 
-## Preexisting requierments:
+## Preexisting requirements:
 
 Installed Oculus Developer Hub (ODH):
 >For Windows: https://developer.oculus.com/downloads/package/oculus-developer-hub-win
@@ -77,3 +68,14 @@ adb -s _ODH_CONNECTED_DEVICE_SERIAL_ID_ shell am start \-n com.oculus.os.vrbrows
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Dissconnect and put on the Meta Quest 2.
+
+
+## Authors
+Yining Cong 
+
+Christian Gumprecht 
+
+Hanneng Hu          hanneng.hhu@gmail.com
+
+Emirali Caferzade   caferzade@campus.tu-berlin.de
+

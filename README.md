@@ -67,7 +67,7 @@ Run *start_srs.py* script. (on Linux)
 ```adb 
 python3 start_srs.py
 ```
-The script will output a RTMP-URL and HLS-URL instructions for usage you can find in the appendix
+The script will output a RTMP-URL and HLS-URL. Instructions for usage you can find in the [appendix](["presentation_360video.pdf"](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
 
 Note: The website will ask for the IP-address which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
 <br>

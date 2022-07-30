@@ -33,9 +33,7 @@ cd srs/trunk
 make
 ```
 ## Usage
-Run *start_srs.py* script.
-
-Designed vor Linux/Ubuntu.
+Run *start_srs.py* script. (on Linux)
 
 ```adb 
 python3 start_srs.py

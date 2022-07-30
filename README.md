@@ -44,7 +44,7 @@ python3 start_srs.py
 
 # Setting up 360 Camera (model GoPro Max):
 
-you can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" (Appendix-section down below).
+You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" (Appendix-section down below).
 
 Any other RTMP compatible camera will work too.
 

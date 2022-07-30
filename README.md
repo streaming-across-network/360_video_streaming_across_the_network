@@ -33,7 +33,7 @@ cd srs/trunk
 make
 ```
 ## Usage
-After setting up the 360 camera as described in [here](#setting-up-360-camera-model-gopro-xax) and setting up setting up the Meta Quest 2 and the Oculus Developer Hub as described in [here](#setting-up-the-meta-quest-2-and-the-oculus-developer-hub-ODH):
+After *setting up the 360 camera* as described in [here](#setting-up-360-camera-model-gopro-max) and *setting up the Meta Quest 2 and the Oculus Developer Hub* as described in [here](#setting-up-the-meta-quest-2-and-the-oculus-developer-hub-ODH):
 
 Run *start_srs.py* script. (on Linux)
 

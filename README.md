@@ -1,7 +1,10 @@
 # 360_video_streaming_across_the_network
 "360 video streaming across the network" project for "Advanced Projects at the Quality and Usability Lab" lecture at TU Berlin
 
-## Preexisting requirements:
+## Technical requirements:
+Supported operating system: Linux/Ubuntu
+
+Python version 3.7 or greater
 
 Installed Oculus Developer Hub (ODH):
 >For Windows: https://developer.oculus.com/downloads/package/oculus-developer-hub-win
@@ -10,10 +13,6 @@ Installed Oculus Developer Hub (ODH):
 
 An Meta Quest 2 in Developer Mode: 
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
-
-Supported operating system: Linux/Ubuntu
-
-Python version 3.0 or greater
 
 ## Installation
 

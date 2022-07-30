@@ -68,7 +68,7 @@ Run *start_srs.py* script. (on Linux)
 python3 start_srs.py
 ```
   
-# Accessing the website with the livestream on the Meta Quest 2:
+### Accessing the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Disconnect and put on the Meta Quest 2.

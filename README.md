@@ -13,7 +13,7 @@ git clone -b develop https://gitee.com/ossrs/srs.git
 ```
 3. Put the SRS in the same directory as the project(360_video_streaming_across_the_network).
 
-4. last type in
+4. Type in
 ```adb 
 pip install to-requirements.txt
 ```

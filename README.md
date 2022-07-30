@@ -12,6 +12,7 @@ An Meta Quest 2 in Developer Mode:
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 
 Supported oporting system: Linux
+
 Python version 3.0 or greater
 ## Installation
 

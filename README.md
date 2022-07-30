@@ -9,7 +9,7 @@ For details about SRS installation, please check out: https://github.com/ossrs/s
 ## Usage
 To use it, just run *start_srs.py* script.
 
-You can run it over the terminal.
+You can run it over the terminal. Designed vor Linux/Ubuntu
 
 # Setting up 360 Camera (model GoPro Max):
 

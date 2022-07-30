@@ -7,18 +7,18 @@
 ```adb 
 git clone https://github.com/streaming-across-network/360_video_streaming_across_the_network.git
 ```
-2. Clone/download SRS (for more info look here: https://github.com/ossrs/srs/wiki/v4_EN_Home)
+2. Clone/download SRS 
 ```adb 
 git clone -b 4.0release https://gitee.com/ossrs/srs.git
 ```
-3. Put the SRS in the same directory as the project(360_video_streaming_across_the_network).
+3. Put the SRS in the same directory as the project (360_video_streaming_across_the_network).
 
-4. Type in
+4. Build SRS (for more info look here: https://github.com/ossrs/srs/wiki/v4_EN_Home)
 ```adb 
-pip install to-requirements.txt
+cd srs/trunk
+./configure
+make
 ```
-to include all modules that we need.
-
 ## Usage
 To use it, just run *start_srs.py* script.
 

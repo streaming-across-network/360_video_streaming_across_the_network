@@ -11,9 +11,10 @@ Installed Oculus Developer Hub (ODH):
 An Meta Quest 2 in Developer Mode: 
 >https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 
-Supported oporting system: Linux/Ubuntu
+Supported operating system: Linux/Ubuntu
 
 Python version 3.0 or greater
+
 ## Installation
 
 1. Clone this repository 

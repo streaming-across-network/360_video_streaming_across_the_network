@@ -1,6 +1,18 @@
 # 360_video_streaming_across_the_network
 "360 video streaming across the network" project for "Advanced Projects at the Quality and Usability Lab" lecture at TU Berlin
 
+## Preexisting requirements:
+
+Installed Oculus Developer Hub (ODH):
+>For Windows: https://developer.oculus.com/downloads/package/oculus-developer-hub-win
+
+>For Mac: https://developer.oculus.com/downloads/package/oculus-developer-hub-mac
+
+An Meta Quest 2 in Developer Mode: 
+>https://developer.oculus.com/documentation/native/android/mobile-device-setup/
+
+Supported oporting system: Linux
+Python version 3.0 or greater
 ## Installation
 
 1. Clone this repository 
@@ -41,15 +53,6 @@ Any other RTMP compatible camera will work too.
 # Setting up the Meta Quest 2 and the Oculus Developer Hub (ODH):
 
 
-## Preexisting requirements:
-
-Installed Oculus Developer Hub (ODH):
->For Windows: https://developer.oculus.com/downloads/package/oculus-developer-hub-win
-
->For Mac: https://developer.oculus.com/downloads/package/oculus-developer-hub-mac
-
-An Meta Quest 2 in Developer Mode: 
->https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 <br>  
   
 ## Preparing the Meta Quest 2 and the ODH (one time only):

@@ -70,7 +70,7 @@ Note: The website will ask for the IP-address which you can find in both URLs
 e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
 <br>
 
-*For this to work we refer to the [technical requirements](#Technical-requirements) of the Oculus Develper Hub (ODH) which you can find in
+*For this to work we refer to the [technical requirements](#Technical-requirements) of the Oculus Develper Hub (ODH) for which we need the
 [Meta Quest 2- Developer Mode](https://developer.oculus.com/documentation/native/android/mobile-device-setup/).*
 
 Accessing the website with the livestream on the Meta Quest 2:

@@ -38,7 +38,7 @@ make
 
 ## Setting up 360 Camera (model GoPro Max):
 
-You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" [appendix-section down below](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf)..
+You can find the instructions for connecting via the "Quick App" on the "presentation_360video.pdf" [appendix-section down below](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
 
 Any other RTMP compatible camera will work too.
 
@@ -81,7 +81,8 @@ Accessing the website with the livestream on the Meta Quest 2:
 4.	On the appearing promt enter the IP-address of the streaming server.
 5.	Press the playbutton to play the livestream and enlarge it.
 6.	Choose the video format of you livestream. (180° or 360°)
-7.	Enjoy.
+
+For image instructions you can also look at the [appendix](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
 
 <br>
 

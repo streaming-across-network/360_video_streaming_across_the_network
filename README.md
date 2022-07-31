@@ -66,14 +66,15 @@ python3 start_srs.py
 ```
 The script will output a RTMP-URL and HLS-URL. Instructions for usage you can find in the [appendix](https://github.com/streaming-across-network/360_video_streaming_across_the_network/blob/master/presentation_360video.pdf).
 
-Note: The website will ask for the IP-address which you can find in both URLs e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
+Note: The website will ask for the IP-address which you can find in both URLs 
+e.g. (rtmp://<ins>192.168.0.106</ins>/live/livestream) 
 <br>
 
 Accessing the website with the livestream on the Meta Quest 2:
 
 1.	Connect the Meta Quest 2 to your PC and run in ODH the created custom command.
 2.	Disconnect and put on the Meta Quest 2.
-3.	Refresh the Website on the opened browser to give it permission to access locale data. (one time only)
+3.	Refresh the Website on the opened browser to give it permission to access local data. (one time only)
 4.	On the appearing promt enter the IP-address of the streaming server.
 5.	Press the playbutton to play the livestream and enlarge it.
 6.	Choose the video format of you livestream. (180° or 360°)

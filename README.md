@@ -3,7 +3,7 @@
 
 ### Technical requirements:
 
-<ins>Required operating system for [network part](Installation-of-network part): Linux/Ubuntu</ins>
+<ins>Required operating system for [network part](Installation-of-network-part): Linux/Ubuntu</ins>
 
 Python version 3.7 or greater:
 >https://www.python.org/downloads/release/python-370/
